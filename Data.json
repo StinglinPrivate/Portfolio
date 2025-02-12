@@ -1,29 +1,27 @@
 [
     
             {
-                "title": "Red waves",
-                "category": "Illustration",
-                "creator": "Stinglin",
-                "url": "https://stinglinprivate.github.io/wallpotdata/38.png",
-                "free": true,
-                "primary": "red"
+                "title": "Thumbnails",
+                "bgImage": "Red waves",
+
             },
-            {
+                {
                 "title": "Red waves",
-                "category": "Illustration",
-                "creator": "Stinglin",
-                "url": "https://stinglinprivate.github.io/wallpotdata/38.png",
-                "free": true,
-                "primary": "red"
+                "bgImage": "Red waves",
+
             },
-            {
+                        {
                 "title": "Red waves",
-                "category": "Illustration",
-                "creator": "Stinglin",
-                "url": "https://stinglinprivate.github.io/wallpotdata/38.png",
-                "free": true,
-                "primary": "red"
+                "bgImage": "Red waves",
+
+            },
+                        {
+                "title": "Red waves",
+                "bgImage": "Red waves",
+
             }
+            
+            
             
 
 ]
