@@ -1,26 +1,57 @@
 [
     
-            {
+    {
+        "thumbnails" :[
+              {
                 "title": "Thumbnails",
-                "bgImage": "Red waves",
+                "bgImage": "Work-1.png"
 
             },
                 {
-                "title": "Red waves",
-                "bgImage": "Red waves",
+                "title": "Web Apps",
+                "bgImage": "Red waves"
 
             },
                         {
-                "title": "Red waves",
-                "bgImage": "Red waves",
+                "title": "Landing Pages",
+                "bgImage": "Red waves"
 
             },
                         {
-                "title": "Red waves",
-                "bgImage": "Red waves",
+                "title": "Youtube Thumbnails",
+                "bgImage": "Red waves"
 
             }
             
+        ]
+    },
+
+    {
+        "thumbnails" :[
+              {
+               
+                "bgImage": "Red waves"
+
+            },
+                {
+               
+                "bgImage": "Red waves"
+
+            },
+                        {
+               
+                "bgImage": "Red waves"
+
+            },
+                        {
+               
+                "bgImage": "Red waves"
+
+            }
+            
+        ]
+        
+    }
             
             
 
