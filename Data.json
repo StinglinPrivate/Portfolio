@@ -4,22 +4,22 @@
         "thumbnails" :[
               {
                 "title": "Thumbnails",
-                "bgImage": "Work-1.png"
+                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-1.png"
 
             },
                 {
                 "title": "Web Apps",
-                "bgImage": "Red waves"
+                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-2.png"
 
             },
                         {
                 "title": "Landing Pages",
-                "bgImage": "Red waves"
+                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-3.png"
 
             },
                         {
                 "title": "Youtube Thumbnails",
-                "bgImage": "Red waves"
+                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-4.png"
 
             }
             
