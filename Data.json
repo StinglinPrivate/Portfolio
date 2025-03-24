@@ -1,25 +1,65 @@
 [
     
     {
-        "thumbnails" :[
+        "works" :[
               {
-                "title": "Mobile Apps",
-                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-1.png"
+                "title": "Mobile App Login",
+                "Image": "https://stinglinprivate.github.io/Portfolio/1.png"
 
             },
                 {
-                "title": "Web Apps",
-                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-2.png"
+                "title": "Web App Dashboard",
+                "Image": "https://stinglinprivate.github.io/Portfolio/2.png"
 
             },
                         {
-                "title": "Landing Pages",
-                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-3.png"
+                "title": "Redbus Redesign",
+                "Image": "https://stinglinprivate.github.io/Portfolio/3.png"
 
             },
                         {
                 "title": "Youtube Thumbnails",
-                "bgImage": "https://raw.githubusercontent.com/StinglinPrivate/Portfolio/refs/heads/main/Thumbnail-4.png"
+                "Image": "https://stinglinprivate.github.io/Portfolio/4.png"
+
+            },
+             {
+                "title": "Minify Landing Page",
+                "Image": "https://stinglinprivate.github.io/Portfolio/5.png"
+
+            },
+                {
+                "title": "Trip booking App",
+                "Image": "https://stinglinprivate.github.io/Portfolio/6.png"
+
+            },
+                        {
+                "title": "Educational Landing Page",
+                "Image": "https://stinglinprivate.github.io/Portfolio/7.png"
+
+            },
+                        {
+                "title": "Web App Lite Listing",
+                "Image": "https://stinglinprivate.github.io/Portfolio/8.png"
+
+            },
+             {
+                "title": "Web App Listing Light",
+                "Image": "https://stinglinprivate.github.io/Portfolio/9.png"
+
+            },
+             {
+                "title": "Web App Listing Dark",
+                "Image": "https://stinglinprivate.github.io/Portfolio/10.png"
+
+            },
+            {
+                "title": "Finance Landing Page",
+                "Image": "https://stinglinprivate.github.io/Portfolio/11.png"
+
+            },
+             {
+                "title": "Playstore Asset",
+                "Image": "https://stinglinprivate.github.io/Portfolio/12.png"
 
             }
             
