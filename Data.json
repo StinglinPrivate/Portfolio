@@ -1,4 +1,5 @@
-[
+{
+  "uiWorks" : [
               {
                 "title": "Mobile App Login",
                 "image": "https://stinglinprivate.github.io/Portfolio/1.png"
@@ -60,4 +61,13 @@
 
             }
             
-        ]
+        ],
+  
+  "artWorks" : [
+              {
+                "title": "Playstore Asset",
+                "image": "https://stinglinprivate.github.io/Portfolio/12.png"
+              },
+    
+          ]
+}
