@@ -1,169 +1,163 @@
 {
-  "uiWorks" : [
-              {
-                "title": "Mobile App Login",
-                "image": "https://stinglinprivate.github.io/Portfolio/1.png"
-
-            },
-                {
-                "title": "Web App Dashboard",
-                "image": "https://stinglinprivate.github.io/Portfolio/2.png"
-
-            },
-                        {
-                "title": "Redbus Redesign",
-                "image": "https://stinglinprivate.github.io/Portfolio/3.png"
-
-            },
-                        {
-                "title": "Youtube Thumbnail",
-                "image": "https://stinglinprivate.github.io/Portfolio/4.png"
-
-            },
-             {
-                "title": "Minify Landing Page",
-                "image": "https://stinglinprivate.github.io/Portfolio/5.png"
-
-            },
-                {
-                "title": "Trip booking App",
-                "image": "https://stinglinprivate.github.io/Portfolio/6.png"
-
-            },
-                        {
-                "title": "Educational Landing Page",
-                "image": "https://stinglinprivate.github.io/Portfolio/7.png"
-
-            },
-                        {
-                "title": "Web App Lite Listing",
-                "image": "https://stinglinprivate.github.io/Portfolio/8.png"
-
-            },
-             {
-                "title": "Web App Listing Light",
-                "image": "https://stinglinprivate.github.io/Portfolio/9.png"
-
-            },
-             {
-                "title": "Web App Listing Dark",
-                "image": "https://stinglinprivate.github.io/Portfolio/10.png"
-
-            },
-            {
-                "title": "Finance Landing Page",
-                "image": "https://stinglinprivate.github.io/Portfolio/11.png"
-
-            },
-             {
-                "title": "Playstore Asset",
-                "image": "https://stinglinprivate.github.io/Portfolio/12.png"
-
-            },
-      {
-                "title": "Course Promo",
-                "image": "https://stinglinprivate.github.io/Portfolio/28.png"
-
-            },
+  "uiWorks": [
     {
-                "title": "Course Promo",
-                "image": "https://stinglinprivate.github.io/Portfolio/29.png"
-
-            },
+      "title": "Mobile App Login",
+      "image": "https://stinglinprivate.github.io/Portfolio/1.png"
+    },
     {
-                "title": "Course Promo",
-                "image": "https://stinglinprivate.github.io/Portfolio/30.png"
-
-            },
+      "title": "Web App Dashboard",
+      "image": "https://stinglinprivate.github.io/Portfolio/2.png"
+    },
     {
-                "title": "Insta Post",
-                "image": "https://stinglinprivate.github.io/Portfolio/31.png"
-
-            },
+      "title": "Redbus Redesign",
+      "image": "https://stinglinprivate.github.io/Portfolio/3.png"
+    },
     {
-                "title": "Insta Post",
-                "image": "https://stinglinprivate.github.io/Portfolio/32.png"
-
-            },
+      "title": "Youtube Thumbnail",
+      "image": "https://stinglinprivate.github.io/Portfolio/4.png"
+    },
     {
-                "title": "Insta Post",
-                "image": "https://stinglinprivate.github.io/Portfolio/33.png"
-
-            },
+      "title": "Minify Landing Page",
+      "image": "https://stinglinprivate.github.io/Portfolio/5.png"
+    },
     {
-                "title": "Insta Post",
-                "image": "https://stinglinprivate.github.io/Portfolio/34.png"
-
-            },
+      "title": "Trip booking App",
+      "image": "https://stinglinprivate.github.io/Portfolio/6.png"
+    },
     {
-                "title": "Insta Post",
-                "image": "https://stinglinprivate.github.io/Portfolio/35.png"
-
-            }
-            
-        ],
-  
-  "artWorks" : [
-              {
-                "title": "Photoshop art",
-                "image": "https://stinglinprivate.github.io/Portfolio/13.png"
-              },
+      "title": "Educational Landing Page",
+      "image": "https://stinglinprivate.github.io/Portfolio/7.png"
+    },
     {
-                "title": "Illustrator Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/14.png"
-              },
+      "title": "Web App Lite Listing",
+      "image": "https://stinglinprivate.github.io/Portfolio/8.png"
+    },
     {
-                "title": "Photoshop art",
-                "image": "https://stinglinprivate.github.io/Portfolio/15.png"
-              },
+      "title": "Web App Listing Light",
+      "image": "https://stinglinprivate.github.io/Portfolio/9.png"
+    },
     {
-                "title": "Illustrator Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/16.png"
-              },
+      "title": "Web App Listing Dark",
+      "image": "https://stinglinprivate.github.io/Portfolio/10.png"
+    },
     {
-                "title": "Photoshop art",
-                "image": "https://stinglinprivate.github.io/Portfolio/17.png"
-              },
+      "title": "Finance Landing Page",
+      "image": "https://stinglinprivate.github.io/Portfolio/11.png"
+    },
     {
-                "title": "Figma Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/18.png"
-              },
+      "title": "Playstore Asset",
+      "image": "https://stinglinprivate.github.io/Portfolio/12.png"
+    },
     {
-                "title": "Figma Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/19.png"
-              },
+      "title": "Course Promo",
+      "image": "https://stinglinprivate.github.io/Portfolio/28.png"
+    },
     {
-                "title": "Figma Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/20.png"
-              },
+      "title": "Course Promo",
+      "image": "https://stinglinprivate.github.io/Portfolio/29.png"
+    },
     {
-                "title": "Illustrator Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/21.png"
-              },
+      "title": "Course Promo",
+      "image": "https://stinglinprivate.github.io/Portfolio/30.png"
+    },
     {
-                "title": "Sketchbook Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/22.png"
-              },
+      "title": "Insta Post",
+      "image": "https://stinglinprivate.github.io/Portfolio/31.png"
+    },
     {
-                "title": "Sketchbook Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/23.png"
-              },
+      "title": "Insta Post",
+      "image": "https://stinglinprivate.github.io/Portfolio/32.png"
+    },
     {
-                "title": "Illustrator Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/24.png"
-              },
+      "title": "Insta Post",
+      "image": "https://stinglinprivate.github.io/Portfolio/33.png"
+    },
     {
-                "title": "Sketchbook Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/25.png"
-              },
+      "title": "Insta Post",
+      "image": "https://stinglinprivate.github.io/Portfolio/34.png"
+    },
     {
-                "title": "Sketchbook Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/26.png"
-              },
+      "title": "Insta Post",
+      "image": "https://stinglinprivate.github.io/Portfolio/35.png"
+    }
+  ],
+  "artWorks": [
     {
-                "title": "Figma Work",
-                "image": "https://stinglinprivate.github.io/Portfolio/27.png"
-              }
-    
-          ]
+      "title": "Photoshop art",
+      "image": "https://stinglinprivate.github.io/Portfolio/13.png"
+    },
+    {
+      "title": "Illustrator Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/14.png"
+    },
+    {
+      "title": "Photoshop art",
+      "image": "https://stinglinprivate.github.io/Portfolio/15.png"
+    },
+    {
+      "title": "Illustrator Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/16.png"
+    },
+    {
+      "title": "Photoshop art",
+      "image": "https://stinglinprivate.github.io/Portfolio/17.png"
+    },
+    {
+      "title": "Figma Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/18.png"
+    },
+    {
+      "title": "Figma Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/19.png"
+    },
+    {
+      "title": "Figma Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/20.png"
+    },
+    {
+      "title": "Illustrator Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/21.png"
+    },
+    {
+      "title": "Sketchbook Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/22.png"
+    },
+    {
+      "title": "Sketchbook Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/23.png"
+    },
+    {
+      "title": "Illustrator Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/24.png"
+    },
+    {
+      "title": "Sketchbook Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/25.png"
+    },
+    {
+      "title": "Sketchbook Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/26.png"
+    },
+    {
+      "title": "Figma Work",
+      "image": "https://stinglinprivate.github.io/Portfolio/27.png"
+    }
+  ],
+  "cartoonWorks": [
+    {
+      "title": "Cartoon Episode 1",
+      "image": "https://stinglinprivate.github.io/Portfolio/37.png",
+      "link": "https://www.youtube.com/embed/aGmVOxJf5Z8?si=z5QUMMNHJHYOFrh8"
+    },
+    {
+      "title": "Cartoon Episode 2",
+      "image": "https://stinglinprivate.github.io/Portfolio/36.png",
+      "link": "https://www.youtube.com/embed/dOy48cxsCrs?si=vx9Lfld5PPmmKBfN"
+    },
+    {
+      "title": "Cartoon Episode 3",
+      "image": "https://stinglinprivate.github.io/Portfolio/38.png",
+      "link": "https://www.youtube.com/embed/XJCBzbNZr3M?si=HHJiPzRUulUzaZaB"
+    }
+  ]
 }
